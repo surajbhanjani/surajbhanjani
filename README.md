@@ -128,6 +128,31 @@ An AI-powered fashion assistant that generates personalized outfit recommendatio
 
 ---
 
+## 🏆 Achievements & Recognition
+
+- 🥈 **National Semifinalist – GrabHack 2025**
+  - Advanced to the national semifinals among thousands of participating teams.
+
+- 🤖 **Finalist – Algorithmia ML Challenge, IIIT Nagpur**
+  - Selected as a finalist for developing machine learning solutions in a competitive university-wide challenge.
+
+- 💸 **Finalist – Paytm Hackathon 2026**
+  - Reached the final round by building innovative technology solutions under a competitive hackathon environment.
+
+- 📈 **Qualified Round 2 – IMC Algorithmic Trading Competition**
+  - Advanced to Round 2 in one of the most competitive quantitative trading competitions.
+
+- 🛒 **Qualified Round 2 – Flipkart Gridlock**
+  - Cleared the initial assessment rounds and advanced to the next stage.
+
+- 💼 **Qualified Round 2 – EY Hiring Challenge**
+  - Successfully progressed through the first screening phase of the challenge.
+
+- 🚀 **Qualified – Flipkart Grid 7.0 & Flipkart Grid 8.0**
+  - Qualified for both editions of Flipkart's flagship engineering challenge.
+
+- 💻 **1000+ DSA & Competitive Programming Problems Solved**
+  - Consistently practiced algorithmic problem solving across LeetCode, CodeChef, Codeforces, GeeksforGeeks, and other platforms.
 ## 🛠️ Tech Stack
 
 ### Languages
